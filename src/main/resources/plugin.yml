@@ -1,0 +1,3 @@
+name: HappyKillstreak
+version: '${project.version}'
+main: icu.n501yhappy.happykillstreak.HappyKillstreak
